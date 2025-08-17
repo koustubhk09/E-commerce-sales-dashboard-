@@ -52,3 +52,4 @@ Customer segment preference impacts revenue distribution.
 This project showcases my ability to transform raw e-commerce data into actionable business insights through effective visualization and analysis techniques.
 
 Screenshot of Dashboard
+https://github.com/koustubhk09/E-commerce-sales-dashboard-/blob/main/E-commerce%20Sales%20dashboard.pdf
